@@ -6,6 +6,7 @@ body {
   flex-direction: column;
   min-height: 95vh;
 }
+
 .main {
   flex: 1;
 }
@@ -35,17 +36,21 @@ span{
 }
 
 img[alt="hand and flower in water"] {
+  margin: 20px;
   width: 45%;
   float: left;
 }
 
 img[alt="metal structure"] {
+  margin: 20px;
   width: 45%;
   float: left;
 }
 
 @media (max-width: 600px) {
-  
+  h1 {
+    font-size: 1rem;
+  }
   }
   
 
