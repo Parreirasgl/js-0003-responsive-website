@@ -1,3 +1,6 @@
+/* My solution to the challenge presented in section 8 of the course:
+The Complete 2023 Web Development Bootcamp. */
+
 body {
   font-family: "Poppins", sans-serif;
   margin: 50px 50px 0 50px;
@@ -13,12 +16,6 @@ body {
 
 h1 {
   font-size: 5rem;
-}
-
-footer {
-  text-align: right;
-  color: midnightblue;
-  clear: both;
 }
 
 span{
@@ -45,6 +42,12 @@ img[alt="metal structure"] {
   margin: 20px;
   width: 45%;
   float: left;
+}
+
+footer {
+  text-align: right;
+  color: midnightblue;
+  clear: both;
 }
 
 @media (max-width: 600px) {
