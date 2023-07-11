@@ -51,6 +51,7 @@ footer {
 }
 
 @media (max-width: 680px) {
+  
   h1 {
     font-size: 3rem;
     text-align: center;
@@ -59,20 +60,17 @@ footer {
   .left{
     width: 100%;
     float: none;
-
   }
   
   .right{
     width: 100%;
     float: none;
-
   }
   
   img[alt="hand and flower in water"] {
     margin: 20px;
     width: 100%;
     float: none;
-
   }
   
   img[alt="metal structure"] {
