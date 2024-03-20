@@ -50,7 +50,7 @@ footer {
   clear: both;
 }
 
-@media (max-width: 680px) {
+@media (max-aspect-ratio: 3/2) {
   
   h1 {
     font-size: 3rem;
